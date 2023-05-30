@@ -31,4 +31,4 @@ Users should be able to:
 
 
 ### Useful resources
-(https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background) - This article helped me get an understanding on how flex-boxes work and how they react due to certian positioning.
+(https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background) - This article helped me get an understanding on how flex-boxes work and how they react due to certain positioning.
