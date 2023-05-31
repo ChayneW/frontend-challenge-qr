@@ -45,8 +45,9 @@ h3 {
 }
 
 .qr-details-text {
-    padding-inline: 10px;
+    padding-inline: 20px;
     flex-direction: wrap;
+    color: gray;
 }
 
 p {
